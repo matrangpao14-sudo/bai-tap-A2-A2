@@ -4,12 +4,12 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ma tráng pao]
+- Họ và tên: [Ma Tráng Pao]
 - Mã sinh viên – Lớp: [2071020150-lớp 20-02]
 - Ngày thực hiện: [30 ]
-- Link repository: [ https://github.com/matrangpao/portfolio.git ]
-- URL website: [ https://github.com/matrangpao/portfolio ]
-- Tình huống: [ sai đường link css] Website của tôi  [ ] Repo luyện của giảng viên
+- Link repository: [ https://github.com/matrangpao14-sudo/bai-tap-A2-A2.git ]
+- URL website: [ https://github.com/matrangpao14-sudo/bai-tap-A2-A2.git ]
+- Tình huống: [ sai đường link css] Website của tôi  [ https://github.com/matrangpao14-sudo/bai-tap-A2-A2.git ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
 
